@@ -1,4 +1,5 @@
 def consolidate_cart(cart)
+  each.do (x,y)
   # code here
 end
 
